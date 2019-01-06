@@ -1,0 +1,354 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /Outlines 8 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 15 0 R /Type /Catalog >>
+endobj
+7 0 obj
+<< /Author () /CreationDate (D:20160908093649+06'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908093649+06'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Assignment 2: Intro Threads) /Trapped /False >>
+endobj
+8 0 obj
+<< /Count 7 /First 9 0 R /Last 14 0 R /Type /Outlines >>
+endobj
+9 0 obj
+<< /Count 4 /Dest [ 5 0 R /XYZ 62.69291 677.0236 0 ] /First 10 0 R /Last 13 0 R /Next 14 0 R /Parent 8 0 R 
+  /Title (Rewriting the programs) >>
+endobj
+10 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 626.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (Version 1) >>
+endobj
+11 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 548.0236 0 ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (Version 2) >>
+endobj
+12 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 452.0236 0 ] /Next 13 0 R /Parent 9 0 R /Prev 11 0 R /Title (Version 3) >>
+endobj
+13 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 344.0236 0 ] /Parent 9 0 R /Prev 12 0 R /Title (Version 4) >>
+endobj
+14 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 248.0236 0 ] /Parent 8 0 R /Prev 9 0 R /Title (Turn it in) >>
+endobj
+15 0 obj
+<< /Count 1 /Kids [ 5 0 R ] /Type /Pages >>
+endobj
+16 0 obj
+<< /Length 6462 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 99.36488 0 Td (Assignment 2: Intro Threads) Tj T* -99.36488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Due Date: ) Tj /F1 10 Tf (Turn this in before class on Thursday, September 15th.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .219984 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this assignment, you will take the ) Tj /F3 10 Tf 0 0 0 rg (colors.cpp ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (adding.cpp ) Tj /F1 10 Tf 0 0 0 rg (code that you worked on in-class,) Tj T* 0 Tw (and rewrite them in several ways.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 656.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Rewriting the programs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 638.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You will give me four versions of both the ) Tj /F3 10 Tf 0 0 0 rg (colors ) Tj /F1 10 Tf 0 0 0 rg (program and the ) Tj /F3 10 Tf 0 0 0 rg (adding ) Tj /F1 10 Tf 0 0 0 rg (program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 608.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Version 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (File names: ) Tj /F3 10 Tf 0 0 0 rg (colors1.cpp) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (adding1.cpp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.679398 Tw (These are the programs as you started work on them: one function per thread; the functions take no) Tj T* 0 Tw (arguments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Version 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 512.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (File names: ) Tj /F3 10 Tf 0 0 0 rg (colors2.cpp) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (adding2.cpp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 482.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.16784 Tw (Rewrite your programs to use function objects. The function objects should have constructors that take) Tj T* 0 Tw (arguments. This means that you only need a single class of function object for each program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Move the global data structures into ) Tj /F3 10 Tf 0 0 0 rg (main) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 434.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Version 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 416.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (File names: ) Tj /F3 10 Tf 0 0 0 rg (colors3.cpp) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (adding3.cpp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 374.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.686412 Tw (Rewrite your programs to use thread entry functions with parameters. Use these functions directly for) Tj T* 0 Tw 1.124983 Tw (thread creation. Because the functions have parameters, you should only need one thread function per) Tj T* 0 Tw (program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 356.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (As in version 2, move the global data structures into ) Tj /F3 10 Tf 0 0 0 rg (main) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 326.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Version 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 308.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (File names: ) Tj /F3 10 Tf 0 0 0 rg (colors4.cpp) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (adding4.cpp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.850651 Tw (Rewrite your programs to use lambdas to create the threads. You shouldn't have any defined thread) Tj T* 0 Tw (function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (As in version 2, move the global data structures into ) Tj /F3 10 Tf 0 0 0 rg (main) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 227.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Turn it in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.0236 cm
+Q
+q
+1 0 0 1 62.69291 215.0236 cm
+Q
+q
+1 0 0 1 62.69291 203.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You should have eight source files.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 197.0236 cm
+Q
+q
+1 0 0 1 62.69291 185.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create a Makefile that builds those eight files.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 179.0236 cm
+Q
+q
+1 0 0 1 62.69291 167.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can work alone, in pairs, or in groups of three.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 161.0236 cm
+Q
+q
+1 0 0 1 62.69291 149.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (All group members' names should be at the top of ) Tj /F2 10 Tf (every ) Tj /F1 10 Tf (source file.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 143.0236 cm
+Q
+q
+1 0 0 1 62.69291 131.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All group members should turn in separate copies of the code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 131.0236 cm
+Q
+q
+1 0 0 1 62.69291 101.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.643735 Tw 12 TL /F1 10 Tf 0 0 0 rg (Make a folder labeled ) Tj /F3 10 Tf 0 0 0 rg (Assignment) Tj ( ) Tj (2 ) Tj /F1 10 Tf 0 0 0 rg (in your turn-in directory and copy in your source files and) Tj T* 0 Tw (Makefile.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+17 0 obj
+<< /Nums [ 0 18 0 R ] >>
+endobj
+18 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 19
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000671 00000 n
+0000000778 00000 n
+0000001066 00000 n
+0000001141 00000 n
+0000001305 00000 n
+0000001417 00000 n
+0000001542 00000 n
+0000001667 00000 n
+0000001779 00000 n
+0000001891 00000 n
+0000001954 00000 n
+0000008473 00000 n
+0000008517 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [('QMC\370\310\245\360\003\220X\363\227K\203\265) ('QMC\370\310\245\360\003\220X\363\227K\203\265)]
+ /Info 7 0 R /Root 6 0 R /Size 19 >>
+startxref
+8554
+%%EOF
